@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 print("TensorFlow version:", tf.__version__)
 
 BATCH_SIZE = 2
-EPOCHS = 15
-RUNS = 2
+EPOCHS = 150
+RUNS = 3
 
 
 # function to build a simple fully connected neural network model
